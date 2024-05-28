@@ -12,5 +12,5 @@ The DRAINOT model is compared to DRAIN and actual data for random days for diffe
 <br>
 Elia Data:<br>
 <br>
-![Graph Description](DRAIN and DRAINOT_Predictions_ELIA_2022-09-18.png)<br>
-![Graph Description](DRAIN and DRAINOT_Predictions_ELIA_2022-11-30.png)
+![Graph Description](DRAIN_and_DRAINOT_Predictions_ELIA_2022-09-18.png)<br>
+![Graph Description](DRAIN_and_DRAINOT_Predictions_ELIA_2022-11-30.png)
