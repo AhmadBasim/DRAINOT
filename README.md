@@ -1,11 +1,11 @@
 # Supplementary Figures for "Drift-Aware Dynamic Neural Network for Improving Short-term Load Forecasting"
 
-This repository contains supplementary figures and materials for the paper titled "Drift-Aware Dynamic Neural Network for Improving Short-term Load Forecasting," presented at the IEEE Conference SEST 2024.
+This repository contains supplementary figures and materials for the paper titled "Drift-Aware Dynamic Neural Network for Improving Short-term Load Forecasting," will be presented at the IEEE Conference SEST 2024.
 
 ## Repository Contents
 
 ### Flowchart
-- **dataprocessing.png**: A detailed flowchart illustrating the data preprocessing steps used in the study.
+- **Flowchart_Data_Preprocessing.png**: A detailed flowchart illustrating the data preprocessing steps used in the study.
 
 ### Time Series Visualizations
 We have chosen two random days for each location to illustrate the load forecasting results.
@@ -29,7 +29,7 @@ We have chosen two random days for each location to illustrate the load forecast
 ## Description of Figures
 
 ### Flowchart of Data Preprocessing
-![Flowchart of Data Preprocessing](dataprocessing.png)
+![Flowchart of Data Preprocessing](Flowchart_Data_Preprocessing.png)
 - **Filename**: `dataprocessing.png`
 - **Description**: This figure provides a comprehensive overview of the data preprocessing steps, including data normalization, merging load data with weather and holiday information, and splitting the dataset into training and testing sets.
 
