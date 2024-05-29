@@ -80,11 +80,6 @@ We have chosen two random days for each location to illustrate the load forecast
 - **Filename**: `ELIA_Predictions_2022-11-30.png`
 - **Description**: Time series visualization of the load forecasting results for Belgium on November 30, 2022.
 
-## How to Reference These Figures
-
-In the main text of the paper, you can refer to these supplementary figures as follows:
-
-"Additional figures supporting this analysis can be found in the supplementary materials available at [GitHub Repository Link]."
 
 ## Contact Information
 
@@ -93,6 +88,3 @@ For any questions or further information, please contact:
 - **Name**: Ahmad Ahmad
 - **Email**: ahmad.b.ahmad@unsw.edu.au
 
-## License
-
-This repository is licensed under the MIT License. Please see the LICENSE file for more details.
